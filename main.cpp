@@ -48,7 +48,7 @@ public://public member functions
 
         else if((src==1 && dest==4) || (src==4 && dest==1))//condition
         {
-            cout << "\t \t \tFlights Found" << endl << endl;
+            cout << " \t \tFlights Found" << endl << endl;
             cout << "Airline:\tDeparture:\tArrival:\tPrice:\t\tCategory:\n";
             cout << "\1.Qantas(1)\t08:00\t\t11:05\t\tRs.4000\t\tRefundable\n";
             cout << "\2.Fly Dubai(2)\t14:00\t\t17:05\t\tRs.4250\t\tRefundable\n";
